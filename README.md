@@ -16,4 +16,4 @@ Quando há empate costuma-se dizer que o jogo “deu velha”.
 
 Jogo desenvolvido para o projeto da Digital Innovation One e Orbi Game Developer.
 
-Acesse o Link:(https://mos2077.github.io/Jogo-da-velha-Html-js-css/)
+[Versão Online](https://mos2077.github.io/Jogo-da-velha-Html-js-css/)
